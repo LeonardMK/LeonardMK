@@ -1,5 +1,7 @@
 Hey I am Leonard,
-I don't know whether people read this, however, I am using this repository mainly for private projects.
+
+I don't know whether people read this. However, I am using this repository mainly for private projects.
+
 Topics I can talk about all day are
 - Statistics.
 - Causal Inference.
